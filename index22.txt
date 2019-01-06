@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../bootstrap4/css/bootstrap.min.css">
+
+    <title>Bootstrap</title>
+  </head>
+  <body style="margin-bottom:200px;padding:16px;">
+
+    <h1>cabecalho 1</h1>
+    <h2>cabecalho 2</h2>    
+    <h3>cabecalho 3</h3>
+    <h4>cabecalho 4</h4>
+    <h5 class="h1">cabecalho 5</h5>
+    <h6>cabecalho 6</h6>
+<br>    
+<br>    
+    <h1 class="display-1">Display 1</h1>
+    <h1>Display 2</h1>
+    <h1>Display 3</h1>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
